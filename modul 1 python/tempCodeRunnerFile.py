@@ -1,0 +1,1 @@
+print("Apakah a sama dengan b ? jawabannya adalah", hasila)
